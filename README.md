@@ -18,7 +18,8 @@ clone後，PlatformIOを用いてdigispark(ATtiny85)に書き込み．
 [ブートローダが書き換えられている](https://qiita.com/nak435/items/67aca33ca49b6f328faa)ため，A0-GNDをつなぎ書き込みを行う．
 
 # 動作確認
-windows11 Pro 25H2
-VisualStudioCode version 1.106
+
+windows11 Pro 25H2  
+VisualStudioCode version 1.106  
 PlatformIO Core 6.1.18 Home 3.4.4  
 digispark 互換品
